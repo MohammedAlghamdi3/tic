@@ -1,7 +1,7 @@
 body{
     background: rgb(231, 236, 238);
 
-    background-image: url("C:/Users/Mohammed%20Alghamdi/Desktop/mohammed/imag1.jpg");
+    background-image: url("./imag1.jpg");
     background-repeat: no-repeat, repeat;   
 }
 #weapper{
