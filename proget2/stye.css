@@ -1,0 +1,43 @@
+#nnn{
+    display:inline-flex;
+
+}
+
+#sss{
+    display:inline-flex;
+
+
+}
+.contunar{
+    display: flex;
+    display: inline-block;
+
+}
+.square1{
+    width: 120px;
+    height: 110px; 
+    background: rgb(58, 167, 182);
+    margin: 5px;
+    font-size: auto;
+    font-family: sans-serif;
+    text-align: center;
+    color:white;
+    display: flex;
+     
+    
+    
+}
+h1{
+    margin-left: 444px;
+
+}
+#message {
+
+    margin-left: 444px;
+    font-size: 30px;
+    color:rgb(196, 109, 109);
+}
+#result{
+    margin-left: 444px;
+    font-size: 30px;
+}
